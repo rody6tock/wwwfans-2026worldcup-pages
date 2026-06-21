@@ -1,2 +1,14 @@
 # wwwfans-2026worldcup-pages
-HTML page archive and documentation
+
+页面托管与归档说明
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
